@@ -2,6 +2,7 @@ import subprocess
 import time
 
 print("Hi")
+print("Hello!")
 
 i = 0
 while True:
